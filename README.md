@@ -1,6 +1,8 @@
 # kitty
 A very small boardgame in JavaScript
 
+https://rdentato.github.io/kitty/kitty.html
+
 This is the result of an assignment for the course "Introduction to Game Design" on Coursera.
 
 It is a simple boardgame (and somewhat confusing).
